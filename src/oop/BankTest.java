@@ -12,7 +12,6 @@ public class BankTest {
 		saving.deposit(100);
 		System.out.println("Saving Acount Total: " + saving.getMoney() );
 		checking.setRate(.18);
-		System.out.println
 		
 		
 		
