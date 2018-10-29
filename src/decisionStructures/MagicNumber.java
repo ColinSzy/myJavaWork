@@ -14,10 +14,11 @@ public class MagicNumber {
 		{
 			System.out.println("You Won A Lambo");
 		}
-		
+		else
+		{
 		System.out.println("Sorry you lost");
 		System.out.println("TAKE THE L!");
-		
+		}
 		
 	}
 
