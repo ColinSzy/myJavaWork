@@ -7,6 +7,16 @@ public class Age {
 	
 	System.out.println("Enter your age.");
 	double age=input.nextDouble();
-	System.out.println(age<21);
+	if(age>=18)
+	{
+		System.out.println("You will be charged as an adult");
+	}
+	
+	System.out.println("Have a NICE day!");
+	
+	
+	
+	
+	
 	}
 }
